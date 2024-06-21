@@ -45,8 +45,6 @@ Welcome to the QUnix Discord server! To ensure a positive and inclusive environm
 Thank you for being a part of the QUnix community and helping to create a welcoming environment for everyone!
 
 ## Contributors
-- [Your Name] - Project Maintainer
-- [Moderator 1] - Moderator
-- [Moderator 2] - Moderator
+- Kero - Project Maintainer
 
 For more information, contact the moderators.
